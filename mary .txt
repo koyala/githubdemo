@@ -2,9 +2,6 @@
 print "Marry had a little lamb,"
 print "it's fleece was white as snow;"
 print "and everywhere that Mary went",
-<<<<<<< HEAD
 print "her lamb was sure to go."
-=======
-print "her lamb was  sure to go."
 print "mary loves her lamb."
->>>>>>> 86108ef46212be5c8de70dea8487dc7975bbccea
+
